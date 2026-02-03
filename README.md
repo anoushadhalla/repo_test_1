@@ -1,1 +1,3 @@
-# repo_test_1
+# toy_ds_project
+project creation date: Feb 2, 2026
+author: Anousha Dhalla
